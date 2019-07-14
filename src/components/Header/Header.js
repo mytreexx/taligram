@@ -18,11 +18,11 @@ function Header() {
                     <h1>Tali Volf</h1>
                     <h2>Bio:</h2>
                     <p className="bio">
-                        Tali, 25, Israel ✌
+                        Tali, 25, Israel <span role="img" aria-label="emoji">✌</span>
                     <br />
-                        Shooting with my Canon 100D. 📷
+                        Shooting with my Canon 100D. <span role="img" aria-label="emoji">📷</span>
                     <br />
-                        “Only photograph what you love.” 🖤
+                        “Only photograph what you love.” <span role="img" aria-label="emoji">🖤</span>
                     <br />
                         – Tim Walker</p>
                     <p>
